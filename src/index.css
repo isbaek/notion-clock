@@ -19,17 +19,9 @@ code {
 }
 
 @font-face {
-  font-family: "Black Delights", sans-serif;
-  src: local("Black Delights"),
-    url("./assets/Black\ Delights.ttf") format("truetype");
-}
-@font-face {
-  font-family: "Black Delights", sans-serif;
-  src: local("Black Delights"),
-    url("./assets/Black\ Delights.woff") format("woff");
-}
-@font-face {
-  font-family: "Black Delights", sans-serif;
-  src: local("Black Delights"),
+  font-family: "Black Delights Font";
+  src: url("./assets/Black\ Delights.ttf") format("truetype"),
+    url("./assets/Black\ Delights.woff") format("woff"),
     url("./assets/Black\ Delights.otf") format("opentype");
+  font-weight:normal;
 }

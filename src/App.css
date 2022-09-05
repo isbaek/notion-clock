@@ -8,7 +8,9 @@
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  font-family: "Black Delights", sans-serif;
+  font-family: "Black Delights Font", -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  sans-serif;
 }
 
 h1 {
